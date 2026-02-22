@@ -26,4 +26,16 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
