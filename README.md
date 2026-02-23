@@ -25,6 +25,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
