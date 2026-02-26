@@ -28,6 +28,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3516-find-closest-person](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/3516-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
