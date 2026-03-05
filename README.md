@@ -10,6 +10,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
+| [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 ## String Matching
 |  |
 | ------- |
