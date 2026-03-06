@@ -6,6 +6,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
