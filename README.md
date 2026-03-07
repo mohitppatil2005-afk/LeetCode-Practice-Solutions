@@ -29,6 +29,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0029-divide-two-integers) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0476-number-complement) |
 ## Recursion
