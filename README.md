@@ -46,6 +46,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,4 +80,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
