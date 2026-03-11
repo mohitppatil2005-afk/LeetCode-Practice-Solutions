@@ -41,6 +41,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
 ## String
@@ -49,6 +50,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
