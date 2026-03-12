@@ -18,6 +18,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
@@ -50,6 +51,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -86,4 +88,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
