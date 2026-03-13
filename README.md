@@ -55,6 +55,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
 | [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 ## String Matching
@@ -92,4 +93,5 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
