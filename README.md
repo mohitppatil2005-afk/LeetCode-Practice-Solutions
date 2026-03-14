@@ -57,6 +57,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
+| [1108-defanging-an-ip-address](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 ## String Matching
 |  |
