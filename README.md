@@ -13,6 +13,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
