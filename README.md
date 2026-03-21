@@ -58,6 +58,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
@@ -103,9 +104,18 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
