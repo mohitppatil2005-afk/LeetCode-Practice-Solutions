@@ -9,6 +9,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
@@ -77,6 +78,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0476-number-complement) |
 ## Recursion
