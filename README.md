@@ -17,6 +17,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -123,4 +124,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
