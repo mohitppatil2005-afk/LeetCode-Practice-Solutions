@@ -9,6 +9,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
@@ -41,6 +42,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
@@ -131,4 +133,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
