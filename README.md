@@ -43,6 +43,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0029-divide-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
@@ -89,6 +90,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
