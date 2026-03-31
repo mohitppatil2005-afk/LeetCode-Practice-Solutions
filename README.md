@@ -46,6 +46,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
@@ -152,4 +153,9 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
