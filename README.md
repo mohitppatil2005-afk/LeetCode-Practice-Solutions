@@ -67,6 +67,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
@@ -154,6 +155,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0091-decode-ways) |
 ## Memoization
 |  |
 | ------- |
