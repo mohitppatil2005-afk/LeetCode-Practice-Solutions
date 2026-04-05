@@ -51,6 +51,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0067-add-binary](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
@@ -128,6 +130,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
