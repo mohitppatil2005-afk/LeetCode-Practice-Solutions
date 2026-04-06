@@ -14,6 +14,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
@@ -52,6 +53,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -115,6 +117,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -169,4 +172,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
