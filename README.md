@@ -54,6 +54,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0171-excel-sheet-column-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,4 +177,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
