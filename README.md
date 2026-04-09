@@ -16,6 +16,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0162-find-peak-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0228-summary-ranges) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
