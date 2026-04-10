@@ -17,6 +17,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0035-search-insert-position](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -160,10 +162,12 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
