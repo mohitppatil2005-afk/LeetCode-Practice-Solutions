@@ -18,6 +18,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0217-contains-duplicate](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,6 +69,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0027-remove-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
@@ -103,6 +105,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0067-add-binary](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0476-number-complement) |
 ## Recursion
 |  |
@@ -130,6 +133,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
