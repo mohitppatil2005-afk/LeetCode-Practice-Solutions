@@ -59,6 +59,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0204-count-primes](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -192,4 +193,12 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0223-rectangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
