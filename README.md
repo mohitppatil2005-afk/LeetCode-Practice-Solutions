@@ -19,6 +19,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0228-summary-ranges](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +165,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -201,4 +203,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
