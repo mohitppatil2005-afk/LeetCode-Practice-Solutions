@@ -94,6 +94,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0657-robot-return-to-origin](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1528-shuffle-string) |
@@ -143,6 +144,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
