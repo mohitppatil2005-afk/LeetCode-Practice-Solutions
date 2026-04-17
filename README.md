@@ -111,6 +111,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0136-single-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0476-number-complement) |
 ## Recursion
 |  |
@@ -187,6 +188,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0053-maximum-subarray](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0091-decode-ways) |
+| [0338-counting-bits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
