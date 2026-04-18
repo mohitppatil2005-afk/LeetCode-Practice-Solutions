@@ -62,6 +62,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -112,6 +113,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0476-number-complement) |
 ## Recursion
 |  |
@@ -119,6 +121,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0050-powx-n](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
