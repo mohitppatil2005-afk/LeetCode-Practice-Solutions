@@ -64,6 +64,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0326-power-of-three](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -194,6 +195,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0091-decode-ways](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -218,4 +220,8 @@ LeetCode solutions | DSA practice | Optimized approaches
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
