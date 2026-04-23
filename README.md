@@ -67,6 +67,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | [0357-count-numbers-with-unique-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -191,6 +192,7 @@ LeetCode solutions | DSA practice | Optimized approaches
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/mohitppatil2005-afk/LeetCode-Practice-Solutions/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
